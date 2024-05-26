@@ -1,0 +1,25 @@
+{
+  "name": "book-foundations-and-react-driven-advances-in-web-applications-development",
+  "version": "1.0.0",
+  "description": "Book: Foundations and React-Driven Advances in Web Applications Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Ekene-Akabogu/Book-Foundations-and-React-Driven-Advances-in-Web-Applications-Development.git)"
+  },
+  "keywords": [
+    "Git",
+    "Book",
+    "Foundations",
+    "React-Driven",
+    "Book-examples"
+  ],
+  "author": "Ekene Akabogu",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
